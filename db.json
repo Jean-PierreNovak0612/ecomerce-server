@@ -1,0 +1,87 @@
+{
+    "computers": [
+        {
+            "id": 1,
+            "title": "Dell XPS Desktop Special Edition",
+            "price": "$1,144.95",
+            "specs" : {
+                "cpu": "10th-generation Intel Core i5 – i9",
+                "graphic": "Up to NVIDIA GeForce RTX 3070 Super",
+                "ram": "Up to 64GB DDR4 2933Mhz",
+                "storage": "Up to 2TB M.2 PCIe NVME SSD + 2TB SATA 7200RPM HDD",
+                "display": ""
+            },
+            "amount": 20
+        },
+        {
+            "id": 2,
+            "title": "iMac (27-inch, 2020)",
+            "price": "$1,699",
+            "specs" : {
+                "cpu": "10th-generation Intel Core i5 – i9",
+                "graphic": "AMD Radeon Pro 5300 - Radeon Pro 5700 XT",
+                "ram": "8GB – 128GB 2666MHz DDR4",
+                "storage": "256GB – 8TB SSD",
+                "display": "27-inch (diagonal) 5120 x 2880 Retina 5K display"
+            },
+            "amount": 20
+        },
+        {
+            "id": 3,
+            "title": "Alienware Aurora Ryzen Edition R10",
+            "price": "$1,899",
+            "specs" : {
+                "cpu": "Up to AMD Ryzen 9 5950X",
+                "graphic": "Up to NVIDIA GeForce RTX 3080",
+                "ram": "Up to 128GB 3200MHz DDR4",
+                "storage": "Up to 2TB SSD + 2TB HDD",
+                "display": ""
+            },
+            "amount": 20
+        }
+    ],
+    "laptops": [
+        {
+            "id": 1,
+            "title": "Apple MacBook Air (M1 2020)",
+            "price" : "$899.99",
+            "specs" : {
+                "cpu": "Apple M1",
+                "graphic": "Integrated 7-core/8-core GPU",
+                "ram": "8GB - 16GB",
+                "storage": "256GB - 2TB SSD",
+                "display" : "13.3-inch (diagonal) 2,560 x 1,600 LED-backlit display with IPS technology",
+                "dimensions" : "11.97 x 8.36 x 0.63 inches (30.41 x 21.24 x 1.61cm; W x D x H)"
+            },
+            "amount": 20
+        },
+        {
+            "id": 2,
+            "title": "Microsoft Surface Laptop 4",
+            "price" : "$999.99",
+            "specs" : {
+                "cpu": "11th-generation Intel Core i5 – i7 /AMD Ryzen 5 - 7",
+                "graphic": "Intel Iris Xe / AMD Radeon",
+                "ram": "8GB – 32GB",
+                "storage": "256GB – 1TB SSD",
+                "display" : "13.5-inch PixelSense (2,256 x 1,504) touch",
+                "dimensions" : ""
+            },
+            "amount": 20
+        },
+        {
+            "id": 3,
+            "title": "Dell XPS 15 (2020)",
+            "price" : "$1,729",
+            "specs" : {
+                "cpu": "10th-generation Intel Core i5 – i7",
+                "graphic": "Intel Iris Plus Graphics - Nvidia GeForce GTX 1650 Ti",
+                "ram": "8GB – 64GB",
+                "storage": "256GB – 1TB SSD",
+                "display" : "15.6\" FHD+ (1920 x 1200) IPS - UHD+ (3840 x 2400)",
+                "dimensions" : ""
+            },
+            "amount": 20
+        }
+    ]
+}

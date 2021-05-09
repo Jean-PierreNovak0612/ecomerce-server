@@ -98,7 +98,8 @@
                 "display" : "13.3-inch (diagonal) 2,560 x 1,600 LED-backlit display with IPS technology",
                 "dimensions" : "11.97 x 8.36 x 0.63 inches (30.41 x 21.24 x 1.61cm; W x D x H)"
             },
-            "amount": 20
+            "amount": 20,
+            "image": "/images/laptops/Apple_MacBook_Air_(M1_2020).webp"
         },
         {
             "id": 2,
@@ -112,7 +113,8 @@
                 "display" : "13.5-inch PixelSense (2,256 x 1,504) touch",
                 "dimensions" : ""
             },
-            "amount": 20
+            "amount": 20,
+            "image": "/images/laptops/Microsoft_Surface_Laptop_4.webp"
         },
         {
             "id": 3,
@@ -126,7 +128,8 @@
                 "display" : "15.6\" FHD+ (1920 x 1200) IPS - UHD+ (3840 x 2400)",
                 "dimensions" : ""
             },
-            "amount": 20
+            "amount": 20,
+            "image": "/images/laptops/Dell_XPS_15_(2020).webp"
         },
         {
             "id": 4,
@@ -140,7 +143,8 @@
                 "display" : "13.3\" FHD (1920 x 1080) IPS BrightView micro-edge WLED-backlit multitouch – 13.3\" diagonal 4K (3840 x 2160) UWVA BrightView micro-edge AMOLED multitouch",
                 "dimensions" : ""
             },
-            "amount": 20
+            "amount": 20,
+            "image": "/images/laptops/HP_Spectre_x360_(2021).webp"
         },
         {
             "id": 5,
@@ -154,7 +158,8 @@
                 "display" : "13.4\" FHD+ (1920 x 1200) InfinityEdge Non-Touch Anti-Glare 500-Nit – 13.4\" UHD+ (3840 x 2400) InfinityEdge Touch Anti-Reflective 500-Nit Display",
                 "dimensions" : ""
             },
-            "amount": 20
+            "amount": 20,
+            "image": "/images/laptops/Dell_XPS_13_(Late_2020).webp"
         },
         {
             "id": 6,
@@ -168,7 +173,8 @@
                 "display" : "17-inch WQXGA (2560 x 1600) IPS LCD",
                 "dimensions" : ""
             },
-            "amount": 20
+            "amount": 20,
+            "image": "/images/laptops/LG_Gram_17_(2021).webp"
         }
     ]
 }

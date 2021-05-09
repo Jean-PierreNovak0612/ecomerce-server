@@ -38,6 +38,45 @@
                 "display": ""
             },
             "amount": 20
+        },
+        {
+            "id": 4,
+            "title": "Dell G5 Gaming Desktop",
+            "price": "$1,449",
+            "specs" : {
+                "cpu": "Up to 10th Gen Intel Core i9-10900KF",
+                "graphic": "Up to NVIDIA GeForce RTX 2070 SUPER",
+                "ram": "Up to 64GB DDR4 2933Mhz",
+                "storage": "Up to 1TB SSD + 2TB HDD",
+                "display": ""
+            },
+            "amount": 20
+        },
+        {
+            "id": 5,
+            "title": "Intel Ghost Canyon NUC",
+            "price": "$982.19",
+            "specs" : {
+                "cpu": "9th-generation Intel Core i5 – i9",
+                "graphic": "Intel UHD Graphics 630",
+                "ram": "8GB – 64B DDR4",
+                "storage": "128GB SSD – 2TB + 2TB",
+                "display": ""
+            },
+            "amount": 20
+        },
+        {
+            "id": 6,
+            "title": "Lenovo Legion Tower 5i",
+            "price": "$1,899.99",
+            "specs" : {
+                "cpu": "up to 10th-gen Intel Core i7",
+                "graphic": "Up to NVIDIA GeForce RTX 2070 Super",
+                "ram": "Up to 16 GB DDR4 2933MHz",
+                "storage": "Up to 2 TB HDD + 1 TB SSD",
+                "display": ""
+            },
+            "amount": 20
         }
     ],
     "laptops": [
@@ -79,6 +118,48 @@
                 "ram": "8GB – 64GB",
                 "storage": "256GB – 1TB SSD",
                 "display" : "15.6\" FHD+ (1920 x 1200) IPS - UHD+ (3840 x 2400)",
+                "dimensions" : ""
+            },
+            "amount": 20
+        },
+        {
+            "id": 4,
+            "title": "HP Spectre x360 (2021)",
+            "price" : "$1,729",
+            "specs" : {
+                "cpu": "11th-generation Intel Core i5 – i7",
+                "graphic": "Intel Iris Xe Graphics",
+                "ram": "8GB – 16GB",
+                "storage": " 256GB – 2TB SSD",
+                "display" : "13.3\" FHD (1920 x 1080) IPS BrightView micro-edge WLED-backlit multitouch – 13.3\" diagonal 4K (3840 x 2160) UWVA BrightView micro-edge AMOLED multitouch",
+                "dimensions" : ""
+            },
+            "amount": 20
+        },
+        {
+            "id": 5,
+            "title": "Dell XPS 13 (Late 2020)",
+            "price" : "$2,499.11",
+            "specs" : {
+                "cpu": "Up to 11th Generation Intel Core i7-1165G7",
+                "graphic": "Up to Intel Iris Xe Graphics",
+                "ram": "Up to 32GB 4267MHz LPDDR4x",
+                "storage": "Up to 2TB M.2 PCIe NVMe",
+                "display" : "13.4\" FHD+ (1920 x 1200) InfinityEdge Non-Touch Anti-Glare 500-Nit – 13.4\" UHD+ (3840 x 2400) InfinityEdge Touch Anti-Reflective 500-Nit Display",
+                "dimensions" : ""
+            },
+            "amount": 20
+        },
+        {
+            "id": 6,
+            "title": "LG Gram 17 (2021)",
+            "price" : "$1,893.82",
+            "specs" : {
+                "cpu": "11th-generation Intel Core i7",
+                "graphic": "Intel Iris Xe Graphics",
+                "ram": "16GB LPDDR4X",
+                "storage": "up to 2TB NVMe SSD",
+                "display" : "17-inch WQXGA (2560 x 1600) IPS LCD",
                 "dimensions" : ""
             },
             "amount": 20

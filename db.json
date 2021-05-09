@@ -11,7 +11,8 @@
                 "storage": "Up to 2TB M.2 PCIe NVME SSD + 2TB SATA 7200RPM HDD",
                 "display": ""
             },
-            "amount": 20
+            "amount": 20,
+            "image": "/images/computers/Dell_XPS_Desktop_Special_Edition.webp"
         },
         {
             "id": 2,
@@ -24,7 +25,8 @@
                 "storage": "256GB – 8TB SSD",
                 "display": "27-inch (diagonal) 5120 x 2880 Retina 5K display"
             },
-            "amount": 20
+            "amount": 20,
+            "image": "/images/computers/iMac_(27-inch_2020).webp"
         },
         {
             "id": 3,
@@ -37,7 +39,8 @@
                 "storage": "Up to 2TB SSD + 2TB HDD",
                 "display": ""
             },
-            "amount": 20
+            "amount": 20,
+            "image": "/images/computers/Alienware_Aurora_Ryzen_Edition_R10.webp"
         },
         {
             "id": 4,
@@ -50,7 +53,8 @@
                 "storage": "Up to 1TB SSD + 2TB HDD",
                 "display": ""
             },
-            "amount": 20
+            "amount": 20,
+            "image": "/images/computers/Dell_G5_Gaming_Desktop.webp"
         },
         {
             "id": 5,
@@ -63,7 +67,8 @@
                 "storage": "128GB SSD – 2TB + 2TB",
                 "display": ""
             },
-            "amount": 20
+            "amount": 20,
+            "image": "/images/computers/Intel_Ghost_Canyon_NUC.webp"
         },
         {
             "id": 6,
@@ -76,7 +81,8 @@
                 "storage": "Up to 2 TB HDD + 1 TB SSD",
                 "display": ""
             },
-            "amount": 20
+            "amount": 20,
+            "image": "/images/computers/Lenovo_Legion_Tower_5i.webp"
         }
     ],
     "laptops": [

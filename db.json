@@ -11,7 +11,7 @@
                 "storage": "Up to 2TB M.2 PCIe NVME SSD + 2TB SATA 7200RPM HDD",
                 "display": ""
             },
-            "amount": 0,
+            "amount": 10,
             "image": "/images/computers/Dell_XPS_Desktop_Special_Edition.webp"
         },
         {
@@ -25,7 +25,7 @@
                 "storage": "256GB – 8TB SSD",
                 "display": "27-inch (diagonal) 5120 x 2880 Retina 5K display"
             },
-            "amount": 20,
+            "amount": 7,
             "image": "/images/computers/iMac_27-inch_2020.webp"
         },
         {
@@ -39,7 +39,7 @@
                 "storage": "Up to 2TB SSD + 2TB HDD",
                 "display": ""
             },
-            "amount": 20,
+            "amount": 0,
             "image": "/images/computers/Alienware_Aurora_Ryzen_Edition_R10.webp"
         },
         {
@@ -67,7 +67,7 @@
                 "storage": "128GB SSD – 2TB + 2TB",
                 "display": ""
             },
-            "amount": 20,
+            "amount": 2,
             "image": "/images/computers/Intel_Ghost_Canyon_NUC.webp"
         },
         {
@@ -81,7 +81,7 @@
                 "storage": "Up to 2 TB HDD + 1 TB SSD",
                 "display": ""
             },
-            "amount": 20,
+            "amount": 6,
             "image": "/images/computers/Lenovo_Legion_Tower_5i.webp"
         }
     ],
@@ -98,7 +98,7 @@
                 "display" : "13.3-inch (diagonal) 2,560 x 1,600 LED-backlit display with IPS technology",
                 "dimensions" : "11.97 x 8.36 x 0.63 inches (30.41 x 21.24 x 1.61cm; W x D x H)"
             },
-            "amount": 20,
+            "amount": 12,
             "image": "/images/laptops/Apple_MacBook_Air_M1_2020.webp"
         },
         {
@@ -113,7 +113,7 @@
                 "display" : "13.5-inch PixelSense (2,256 x 1,504) touch",
                 "dimensions" : ""
             },
-            "amount": 20,
+            "amount": 15,
             "image": "/images/laptops/Microsoft_Surface_Laptop_4.webp"
         },
         {
@@ -143,7 +143,7 @@
                 "display" : "13.3\" FHD (1920 x 1080) IPS BrightView micro-edge WLED-backlit multitouch – 13.3\" diagonal 4K (3840 x 2160) UWVA BrightView micro-edge AMOLED multitouch",
                 "dimensions" : ""
             },
-            "amount": 20,
+            "amount": 8,
             "image": "/images/laptops/HP_Spectre_x360_2021.webp"
         },
         {
@@ -158,7 +158,7 @@
                 "display" : "13.4\" FHD+ (1920 x 1200) InfinityEdge Non-Touch Anti-Glare 500-Nit – 13.4\" UHD+ (3840 x 2400) InfinityEdge Touch Anti-Reflective 500-Nit Display",
                 "dimensions" : ""
             },
-            "amount": 20,
+            "amount": 19,
             "image": "/images/laptops/Dell_XPS_13_Late_2020.webp"
         },
         {

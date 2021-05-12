@@ -26,7 +26,7 @@
                 "display": "27-inch (diagonal) 5120 x 2880 Retina 5K display"
             },
             "amount": 20,
-            "image": "/images/computers/iMac_(27-inch_2020).webp"
+            "image": "/images/computers/iMac_27-inch_2020.webp"
         },
         {
             "id": 3,
@@ -99,7 +99,7 @@
                 "dimensions" : "11.97 x 8.36 x 0.63 inches (30.41 x 21.24 x 1.61cm; W x D x H)"
             },
             "amount": 20,
-            "image": "/images/laptops/Apple_MacBook_Air_(M1_2020).webp"
+            "image": "/images/laptops/Apple_MacBook_Air_M1_2020.webp"
         },
         {
             "id": 2,
@@ -129,7 +129,7 @@
                 "dimensions" : ""
             },
             "amount": 20,
-            "image": "/images/laptops/Dell_XPS_15_(2020).webp"
+            "image": "/images/laptops/Dell_XPS_15_2020.webp"
         },
         {
             "id": 4,
@@ -144,7 +144,7 @@
                 "dimensions" : ""
             },
             "amount": 20,
-            "image": "/images/laptops/HP_Spectre_x360_(2021).webp"
+            "image": "/images/laptops/HP_Spectre_x360_2021.webp"
         },
         {
             "id": 5,
@@ -159,7 +159,7 @@
                 "dimensions" : ""
             },
             "amount": 20,
-            "image": "/images/laptops/Dell_XPS_13_(Late_2020).webp"
+            "image": "/images/laptops/Dell_XPS_13_Late_2020.webp"
         },
         {
             "id": 6,
@@ -174,7 +174,7 @@
                 "dimensions" : ""
             },
             "amount": 20,
-            "image": "/images/laptops/LG_Gram_17_(2021).webp"
+            "image": "/images/laptops/LG_Gram_17_2021.webp"
         }
     ]
 }
